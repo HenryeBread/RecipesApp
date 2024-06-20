@@ -2,7 +2,8 @@
   "expo": {
     "name": "expo",
     "slug": "expo",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "backgroundColor": "#24180f"
   },
   "name": "expo"
 }
